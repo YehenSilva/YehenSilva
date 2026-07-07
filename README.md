@@ -12,185 +12,254 @@
                                                                                     ▀
 </pre>
 
+<h3>
+DEVELOPER TERMINAL INTERFACE // YEHEN SILVA OS
+</h3>
+
+<p>
+Full Stack Developer • Software Builder • Automation Engineer
+</p>
+
 </div>
-## 🚀 Featured Projects
 
-<table>
-<tr>
 
-<td width="50%">
+```bash
+$ ./system.boot
 
-### 🖥️ Yehen Web Studio
+[████████████████████] 100%
 
-Terminal-inspired personal portfolio platform.
+SYSTEM STATUS : ONLINE
+USER          : YehenSilva
+ROLE          : Full Stack Developer
+LOCATION      : Singapore
+MODE          : BUILDING
 
-Features:
-- Interactive developer dashboard
-- Project showcase
-- Experience timeline
-- Modern responsive design
+CONNECTED MODULES:
 
-Tech:
-`Next.js` `React` `TypeScript` `Tailwind CSS`
+✓ Web Development
+✓ Business Automation
+✓ Database Systems
+✓ AI Exploration
+✓ Software Engineering
 
-[Live Demo](https://yehensilva.vercel.app)
-
-</td>
-
-<td width="50%">
-
-### ⚡ Full Stack Applications
-
-Production-focused applications exploring:
-
-- Frontend engineering
-- Backend APIs
-- Database systems
-- User experience design
-
-Tech:
-`JavaScript` `Python` `Node.js` `MongoDB`
-
-</td>
-
-</tr>
-</table>
-$ system.boot
-
-[✓] Identity loaded
-[✓] Developer profile initialized
-[✓] Portfolio connection established
-
-USER: Yehen Silva
-STATUS: AVAILABLE_FOR_COLLAB
-MODE: BUILDING
-about_me.txt
 name: Yehen Silva
-role: Software Developer
+role: Full Stack Developer
+
 focus:
-  - Full Stack Development
-  - AI Engineering
-  - Cloud Systems
   - Modern Web Applications
+  - Business Management Systems
+  - Automation Tools
+  - Interactive User Experiences
 
-mission:
-  "Building useful software with clean design and reliable engineering."
-tech_stack.sh
-Frontend
-├── React
-├── Next.js
-├── TypeScript
-├── JavaScript
-├── Tailwind CSS
+currently_building:
+  - Scalable applications
+  - Developer tools
+  - AI powered systems
 
-Backend
-├── Node.js
-├── Express
-├── Python
+availability:
+  collaboration: true
 
-Database
-├── MongoDB
-├── PostgreSQL
-├── MySQL
+FRONTEND
 
-Tools
-├── Git
-├── GitHub
-├── Docker
-├── Linux
-├── VS Code
-projects.exe
-$ execute projects.exe
+React              ██████████
+Next.js            █████████
+JavaScript         █████████
+TypeScript         ████████
+Tailwind CSS       ████████
 
-Loading projects...
 
-[01] PROJECT_NAME
+BACKEND
 
-STATUS: COMPLETED
-TYPE: Full Stack Application
+Node.js            ████████
+Python             ████████
+Firebase           ████████
+MongoDB            ███████
 
-DESCRIPTION:
-Project description here.
+
+TOOLS
+
+Git                █████████
+GitHub             █████████
+Docker             ███████
+VS Code            █████████
+
+$ load projects
+
+[06 PROJECTS FOUND]
+
+Loading project modules...
+
+STATUS      : LIVE
+CATEGORY    : Streaming Platform
+
+An online movie streaming platform prototype
+designed with a modern browsing experience.
+
+FEATURES:
+
+✓ Movie browsing system
+✓ Content integration
+✓ Responsive interface
+✓ Modern streaming experience
+
 
 STACK:
-React | Node.js | Database | Cloud
 
-LINK:
-https://github.com/YehenSilva
-
-
-------------------------------------------------
+React
+Node.js
+MongoDB
+Streaming Systems
 
 
-[02] PROJECT_NAME
+LIVE:
 
-STATUS: COMPLETED
-TYPE: Web Application
+https://xynema-six.vercel.app/
 
-DESCRIPTION:
-Project description here.
+STATUS      : LIVE
+CATEGORY    : E-Commerce Platform
 
-STACK:
-Next.js | TypeScript | Tailwind CSS
+A gems and jewellery commerce platform
+prototype with real-time management.
 
-LINK:
-https://github.com/YehenSilva
+FEATURES:
 
+✓ Product management
+✓ Firebase database
+✓ Admin panel
+✓ Inventory handling
+✓ Real-time updates
 
-------------------------------------------------
-
-
-[03] PROJECT_NAME
-
-STATUS: ACTIVE DEVELOPMENT
-
-DESCRIPTION:
-Project description here.
 
 STACK:
-Python | AI | APIs
 
-LINK:
-https://github.com/YehenSilva
-github_stats.monitor
-SYSTEM PERFORMANCE
+Firebase
+Frontend Development
+UI/UX Engineering
 
-Repositories      ██████████
-Contributions     ██████████
-Code Quality      ██████████
-Learning Speed    ██████████
 
-STATUS: OPTIMIZING
-experience.log
-$ cat experience.log
+LIVE:
 
-> Developing modern software solutions
+https://encroza.web.app/
 
-> Exploring AI and automation
+STATUS      : PRIVATE SYSTEM
+CATEGORY    : Business Management Software
 
-> Building scalable applications
 
-> Improving engineering practices
-current_activity.log
-[ACTIVE]
+A complete internal management platform
+created for Waterqo Swimming Pools.
 
-> Creating new projects
-> Learning emerging technologies
-> Improving existing systems
-> Open to collaboration
-connect.sh
-$ connect YehenSilva
 
-GitHub:
-https://github.com/YehenSilva
+MODULES:
 
-Portfolio:
-https://yehensilva.vercel.app
 
-<div align="center">
+CLIENT_LEDGER
 
-SYS_ONLINE // v3.0
+✓ Client records
+✓ Payment history
+✓ Service tracking
 
-Thanks for visiting.
 
-</div>
+SERVICE_TRACKER
+
+✓ Pool maintenance tracking
+✓ Completed services
+✓ Client requirements
+
+
+PRICE_ENGINE
+
+✓ Product comparison
+✓ Pricing decisions
+
+
+DOCUMENT_ENGINE
+
+✓ Invoice generation
+✓ Quotation creation
+
+STATUS      : DEPLOYED
+CATEGORY    : Corporate Website
+
+
+Official company website created to showcase
+projects, services and products.
+
+
+FEATURES:
+
+✓ Project showcase
+✓ Dedicated project pages
+✓ Service catalogue
+✓ Product catalogue
+
+
+LIVE:
+
+https://waterqoswimmingpools.com/
+
+STATUS      : ACTIVE TOOL
+CATEGORY    : Business Automation
+
+
+Python automation system for generating
+professional quotations.
+
+
+PROCESS:
+
+
+INPUT DATA
+     |
+     v
+CALCULATION ENGINE
+     |
+     v
+WORD DOCUMENT GENERATOR
+     |
+     v
+FINAL QUOTATION
+
+
+FEATURES:
+
+✓ Automatic calculations
+✓ Template processing
+✓ Document generation
+
+
+STACK:
+
+Python
+Automation
+Document Processing
+
+STATUS      : OPERATIONAL
+CATEGORY    : Mobile Business Application
+
+
+A mobile-first system for managing pool
+services and business operations.
+
+
+FEATURES:
+
+ADMIN:
+
+✓ Client management
+✓ Staff management
+✓ Payment tracking
+
+
+STAFF:
+
+✓ Service updates
+✓ Request submission
+✓ Field operations
+
+
+STACK:
+
+Firebase
+Authentication
+Mobile Web
+Operations Management
