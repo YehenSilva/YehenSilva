@@ -322,16 +322,6 @@ Mobile Web
 
 <hr>
 
-<div align="center">
-
-## `github_monitor.exe`
-
-<img src="https://github-readme-stats.vercel.app/api?username=YehenSilva&show_icons=true&theme=tokyonight&hide_border=true">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YehenSilva&theme=tokyonight&hide_border=true">
-
-</div>
-
 <hr>
 
 <div align="center">
