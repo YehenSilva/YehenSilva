@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=YEHEN+SILVA+OS;FULL+STACK+DEVELOPER;SYSTEM+ONLINE;BUILDING+DIGITAL+SYSTEMS" />
+
+<br>
+
 <pre style="color:red;">
 ▄██   ▄      ▄████████    ▄█    █▄       ▄████████ ███▄▄▄▄           ▄████████  ▄█   ▄█        ▄█    █▄     ▄████████ 
 ███   ██▄   ███    ███   ███    ███     ███    ███ ███▀▀▀██▄        ███    ███ ███  ███       ███    ███   ███    ███ 
@@ -12,20 +16,21 @@
                                                                                     ▀
 </pre>
 
-<h3>
-DEVELOPER TERMINAL INTERFACE // YEHEN SILVA OS
-</h3>
-
-<p>
-Full Stack Developer • Software Builder • Automation Engineer
-</p>
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00ff00?style=for-the-badge">
+<img src="https://img.shields.io/badge/MODE-BUILDING-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/ROLE-FULL_STACK_DEVELOPER-black?style=for-the-badge">
 
 </div>
 
+<hr>
+
+<div align="center">
+
+## `./system.boot`
+
+</div>
 
 ```bash
-$ ./system.boot
-
 [████████████████████] 100%
 
 SYSTEM STATUS : ONLINE
@@ -41,7 +46,17 @@ CONNECTED MODULES:
 ✓ Database Systems
 ✓ AI Exploration
 ✓ Software Engineering
+```
 
+<hr>
+
+<div align="center">
+
+## `about_me.exe`
+
+</div>
+
+```yaml
 name: Yehen Silva
 role: Full Stack Developer
 
@@ -52,214 +67,301 @@ focus:
   - Interactive User Experiences
 
 currently_building:
-  - Scalable applications
-  - Developer tools
-  - AI powered systems
+  - Scalable Applications
+  - Developer Tools
+  - AI Powered Systems
 
 availability:
   collaboration: true
+```
 
+<hr>
+
+<div align="center">
+
+## `tech_stack.dll`
+
+</div>
+
+<table align="center">
+<tr>
+<td>
+
+```text
 FRONTEND
 
-React              ██████████
-Next.js            █████████
-JavaScript         █████████
-TypeScript         ████████
-Tailwind CSS       ████████
+React        ██████████
+Next.js      █████████
+JavaScript   █████████
+TypeScript   ████████
+Tailwind     ████████
+```
 
+</td>
 
+<td>
+
+```text
 BACKEND
 
-Node.js            ████████
-Python             ████████
-Firebase           ████████
-MongoDB            ███████
+Node.js      ████████
+Python       ████████
+Firebase     ████████
+MongoDB      ███████
+```
 
+</td>
 
+<td>
+
+```text
 TOOLS
 
-Git                █████████
-GitHub             █████████
-Docker             ███████
-VS Code            █████████
+Git          █████████
+GitHub       █████████
+Docker       ███████
+VS Code      █████████
+```
 
+</td>
+</tr>
+</table>
+
+<hr>
+
+<div align="center">
+
+## `project_database.exe`
+
+</div>
+
+```bash
 $ load projects
 
 [06 PROJECTS FOUND]
 
-Loading project modules...
+Initializing modules...
+```
 
-STATUS      : LIVE
-CATEGORY    : Streaming Platform
+<table>
+<tr>
+<td width="50%">
 
-An online movie streaming platform prototype
-designed with a modern browsing experience.
+## 🎬 XYNEMA
+
+```text
+STATUS:
+LIVE
+
+TYPE:
+Streaming Platform
 
 FEATURES:
 
-✓ Movie browsing system
+✓ Movie browsing
 ✓ Content integration
 ✓ Responsive interface
-✓ Modern streaming experience
-
+✓ Streaming experience
 
 STACK:
 
 React
 Node.js
 MongoDB
-Streaming Systems
-
 
 LIVE:
-
 https://xynema-six.vercel.app/
+```
 
-STATUS      : LIVE
-CATEGORY    : E-Commerce Platform
+</td>
 
-A gems and jewellery commerce platform
-prototype with real-time management.
+<td width="50%">
+
+## 💎 ENCROZA
+
+```text
+STATUS:
+LIVE
+
+TYPE:
+E-Commerce Platform
 
 FEATURES:
 
 ✓ Product management
 ✓ Firebase database
 ✓ Admin panel
-✓ Inventory handling
-✓ Real-time updates
-
+✓ Inventory system
 
 STACK:
 
 Firebase
-Frontend Development
-UI/UX Engineering
-
+Frontend
+UI/UX
 
 LIVE:
-
 https://encroza.web.app/
+```
 
-STATUS      : PRIVATE SYSTEM
-CATEGORY    : Business Management Software
+</td>
+</tr>
 
+<tr>
+<td width="50%">
 
-A complete internal management platform
-created for Waterqo Swimming Pools.
+## 🏊 WATERQO MANAGEMENT
 
+```text
+STATUS:
+PRIVATE SYSTEM
+
+TYPE:
+Business Software
 
 MODULES:
 
+✓ Client ledger
+✓ Service tracker
+✓ Price engine
+✓ Invoice system
 
-CLIENT_LEDGER
+SYSTEM:
+Internal Operations Platform
+```
 
-✓ Client records
-✓ Payment history
-✓ Service tracking
+</td>
 
+<td width="50%">
 
-SERVICE_TRACKER
+## 🌊 WATERQO WEBSITE
 
-✓ Pool maintenance tracking
-✓ Completed services
-✓ Client requirements
+```text
+STATUS:
+DEPLOYED
 
-
-PRICE_ENGINE
-
-✓ Product comparison
-✓ Pricing decisions
-
-
-DOCUMENT_ENGINE
-
-✓ Invoice generation
-✓ Quotation creation
-
-STATUS      : DEPLOYED
-CATEGORY    : Corporate Website
-
-
-Official company website created to showcase
-projects, services and products.
-
+TYPE:
+Corporate Website
 
 FEATURES:
 
 ✓ Project showcase
-✓ Dedicated project pages
-✓ Service catalogue
-✓ Product catalogue
-
+✓ Services
+✓ Products
+✓ Dedicated pages
 
 LIVE:
-
 https://waterqoswimmingpools.com/
+```
 
-STATUS      : ACTIVE TOOL
-CATEGORY    : Business Automation
+</td>
+</tr>
 
+<tr>
+<td width="50%">
 
-Python automation system for generating
-professional quotations.
+## 📄 QUOTATION ENGINE
 
+```text
+STATUS:
+ACTIVE TOOL
+
+TYPE:
+Automation System
 
 PROCESS:
 
-
-INPUT DATA
-     |
-     v
-CALCULATION ENGINE
-     |
-     v
-WORD DOCUMENT GENERATOR
-     |
-     v
-FINAL QUOTATION
-
-
-FEATURES:
-
-✓ Automatic calculations
-✓ Template processing
-✓ Document generation
+INPUT
+ |
+ v
+CALCULATIONS
+ |
+ v
+WORD GENERATOR
+ |
+ v
+QUOTATION
 
 
 STACK:
 
 Python
 Automation
-Document Processing
+Documents
+```
 
-STATUS      : OPERATIONAL
-CATEGORY    : Mobile Business Application
+</td>
 
+<td width="50%">
 
-A mobile-first system for managing pool
-services and business operations.
+## 📱 SERVICE TRACKER
 
+```text
+STATUS:
+OPERATIONAL
+
+TYPE:
+Mobile Business App
 
 FEATURES:
 
 ADMIN:
-
-✓ Client management
-✓ Staff management
-✓ Payment tracking
-
+✓ Clients
+✓ Staff
+✓ Payments
 
 STAFF:
-
-✓ Service updates
-✓ Request submission
-✓ Field operations
-
+✓ Services
+✓ Requests
+✓ Updates
 
 STACK:
 
 Firebase
-Authentication
+Auth
 Mobile Web
-Operations Management
+```
+
+</td>
+</tr>
+</table>
+
+<hr>
+
+<div align="center">
+
+## `github_monitor.exe`
+
+<img src="https://github-readme-stats.vercel.app/api?username=YehenSilva&show_icons=true&theme=tokyonight&hide_border=true">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YehenSilva&theme=tokyonight&hide_border=true">
+
+</div>
+
+<hr>
+
+<div align="center">
+
+## `contact.sh`
+
+```bash
+$ connect YehenSilva
+
+PORTFOLIO:
+https://yehensilva.vercel.app/
+
+GITHUB:
+https://github.com/YehenSilva
+```
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=YehenSilva&color=red&style=for-the-badge">
+
+<br>
+
+```text
+SYSTEM ONLINE
+YEHEN SILVA OS v4.0
+```
+
+</div>
