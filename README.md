@@ -320,9 +320,7 @@ Mobile Web
 </tr>
 </table>
 
-<hr>
 
-<hr>
 
 <div align="center">
 
