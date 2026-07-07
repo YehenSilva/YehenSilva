@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**YehenSilva/YehenSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, I'm Yehen Silva
 
-Here are some ideas to get you started:
+```bash
+$ cat about_me.txt
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Name: Yehen Silva
+Role: Developer
+
+Currently learning:
+- Software Development
+- AI
+- Cloud Technologies
+
+Building:
+- Personal projects
+- Open source projects
