@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=YEHEN+SILVA+OS;FULL+STACK+DEVELOPER;SYSTEM+ONLINE;BUILDING+DIGITAL+SYSTEMS" />
-
 <br>
 
 <pre style="color:red;">
@@ -133,207 +131,50 @@ VS Code      █████████
 
 ## `project_database.exe`
 
+<img src="https://img.shields.io/badge/PROJECTS-06-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/SYSTEM-ACTIVE-00ff00?style=for-the-badge">
+
 </div>
 
+<br>
+
 ```bash
-$ load projects
+$ ./project_database.exe
 
-[06 PROJECTS FOUND]
+Initializing portfolio database...
 
-Initializing modules...
-```
+[████████████████████] 100%
 
-<table>
-<tr>
-<td width="50%">
+06 PROJECT MODULES FOUND
+Loading architecture...
 
-## 🎬 XYNEMA
+<br> <div align="center"> <table> <tr> <td width="33%" valign="top"> <h3>🎬 XYNEMA</h3> <img src="https://img.shields.io/badge/01-STREAMING-red?style=flat-square"> <pre> STATUS: 🟢 LIVE CATEGORY: Streaming Platform DESCRIPTION: Online movie streaming platform prototype designed with a modern browsing experience. FEATURES: ✓ Movie discovery ✓ Content integration ✓ Responsive interface ✓ Streaming experience STACK: React Node.js MongoDB LIVE: https://xynema-six.vercel.app/ </pre> </td> <td width="33%" valign="top"> <h3>💎 ENCROZA</h3> <img src="https://img.shields.io/badge/02-ECOMMERCE-red?style=flat-square"> <pre> STATUS: 🟢 LIVE CATEGORY: E-Commerce Platform DESCRIPTION: Gems and jewellery commerce platform prototype with real-time management. FEATURES: ✓ Product management ✓ Firebase database ✓ Admin panel ✓ Inventory system STACK: Firebase Frontend UI/UX LIVE: https://encroza.web.app/ </pre> </td> <td width="33%" valign="top"> <h3>🏊 WATERQO SUITE</h3> <img src="https://img.shields.io/badge/03-BUSINESS-red?style=flat-square"> <pre> STATUS: 🔴 PRIVATE CATEGORY: Business Software DESCRIPTION: Internal management system built for Waterqo Swimming Pools. MODULES: ✓ Client Ledger ✓ Service Tracker ✓ Price Engine ✓ Invoice System TYPE: Enterprise Tool </pre> </td> </tr> <tr> <td width="33%" valign="top"> <h3>🌊 WATERQO WEBSITE</h3> <img src="https://img.shields.io/badge/04-CORPORATE-red?style=flat-square"> <pre> STATUS: 🟢 DEPLOYED CATEGORY: Corporate Website FEATURES: ✓ Project showcase ✓ Service pages ✓ Product catalogue ✓ Company information LIVE: https://waterqoswimmingpools.com/ </pre> </td> <td width="33%" valign="top"> <h3>📄 QUOTATION ENGINE</h3> <img src="https://img.shields.io/badge/05-AUTOMATION-red?style=flat-square"> <pre> STATUS: 🟡 ACTIVE TOOL CATEGORY: Business Automation PROCESS: INPUT DATA | v CALCULATION ENGINE | v WORD GENERATOR | v FINAL QUOTATION FEATURES: ✓ Auto calculations ✓ Document generation ✓ Template processing STACK: Python Automation Documents </pre> </td> <td width="33%" valign="top"> <h3>📱 SERVICE TRACKER</h3> <img src="https://img.shields.io/badge/06-MOBILE_APP-red?style=flat-square"> <pre> STATUS: 🟢 OPERATIONAL CATEGORY: Mobile Business App FEATURES: ADMIN: ✓ Client management ✓ Staff management ✓ Payment tracking STAFF: ✓ Service updates ✓ Requests ✓ Field operations STACK: Firebase Authentication Mobile Web </pre> </td> </tr> </table> </div> <br>
 
-```text
-STATUS:
-LIVE
-
-TYPE:
-Streaming Platform
-
-FEATURES:
-
-✓ Movie browsing
-✓ Content integration
-✓ Responsive interface
-✓ Streaming experience
-
-STACK:
-
-React
-Node.js
-MongoDB
-
-LIVE:
-https://xynema-six.vercel.app/
-```
-
-</td>
-
-<td width="50%">
-
-## 💎 ENCROZA
-
-```text
-STATUS:
-LIVE
-
-TYPE:
-E-Commerce Platform
-
-FEATURES:
-
-✓ Product management
-✓ Firebase database
-✓ Admin panel
-✓ Inventory system
-
-STACK:
-
-Firebase
-Frontend
-UI/UX
-
-LIVE:
-https://encroza.web.app/
-```
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-## 🏊 WATERQO MANAGEMENT
-
-```text
-STATUS:
-PRIVATE SYSTEM
-
-TYPE:
-Business Software
-
-MODULES:
-
-✓ Client ledger
-✓ Service tracker
-✓ Price engine
-✓ Invoice system
-
-SYSTEM:
-Internal Operations Platform
-```
-
-</td>
-
-<td width="50%">
-
-## 🌊 WATERQO WEBSITE
-
-```text
-STATUS:
-DEPLOYED
-
-TYPE:
-Corporate Website
-
-FEATURES:
-
-✓ Project showcase
-✓ Services
-✓ Products
-✓ Dedicated pages
-
-LIVE:
-https://waterqoswimmingpools.com/
-```
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-## 📄 QUOTATION ENGINE
-
-```text
-STATUS:
-ACTIVE TOOL
-
-TYPE:
-Automation System
-
-PROCESS:
-
-INPUT
- |
- v
-CALCULATIONS
- |
- v
-WORD GENERATOR
- |
- v
-QUOTATION
+$ project_database.exe --scan
 
 
-STACK:
+[✓] XYNEMA
+[✓] ENCROZA
+[✓] WATERQO MANAGEMENT SUITE
+[✓] WATERQO WEBSITE
+[✓] QUOTATION ENGINE
+[✓] SERVICE TRACKER
 
-Python
-Automation
-Documents
-```
 
-</td>
+DATABASE STATUS:
 
-<td width="50%">
+ALL PROJECTS LOADED SUCCESSFULLY
 
-## 📱 SERVICE TRACKER
-
-```text
-STATUS:
-OPERATIONAL
-
-TYPE:
-Mobile Business App
-
-FEATURES:
-
-ADMIN:
-✓ Clients
-✓ Staff
-✓ Payments
-
-STAFF:
-✓ Services
-✓ Requests
-✓ Updates
-
-STACK:
-
-Firebase
-Auth
-Mobile Web
-```
-
-</td>
-</tr>
-</table>
-
+SYSTEM READY.
 <hr>
 
 <div align="center">
 
 ## `github_monitor.exe`
 
-<img src="https://github-readme-stats.vercel.app/api?username=YehenSilva&show_icons=true&theme=tokyonight&hide_border=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YehenSilva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YehenSilva&theme=tokyonight&hide_border=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YehenSilva&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -361,7 +202,7 @@ https://github.com/YehenSilva
 
 ```text
 SYSTEM ONLINE
-YEHEN SILVA OS v4.0
+YEHEN SILVA 
 ```
 
 </div>
