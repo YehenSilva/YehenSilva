@@ -13,3 +13,45 @@
 </pre>
 
 </div>
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🖥️ Yehen Web Studio
+
+Terminal-inspired personal portfolio platform.
+
+Features:
+- Interactive developer dashboard
+- Project showcase
+- Experience timeline
+- Modern responsive design
+
+Tech:
+`Next.js` `React` `TypeScript` `Tailwind CSS`
+
+[Live Demo](https://yehensilva.vercel.app)
+
+</td>
+
+<td width="50%">
+
+### ⚡ Full Stack Applications
+
+Production-focused applications exploring:
+
+- Frontend engineering
+- Backend APIs
+- Database systems
+- User experience design
+
+Tech:
+`JavaScript` `Python` `Node.js` `MongoDB`
+
+</td>
+
+</tr>
+</table>
