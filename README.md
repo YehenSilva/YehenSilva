@@ -23,8 +23,8 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://yehensilva.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YehenSilva)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-here)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yehensilva/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yehensilva@gmail.com)
 
 </div>
 
@@ -40,36 +40,24 @@ Currently exploring: applied ML pipelines, AI-assisted tooling, and scalable sys
 
 ## Stack
 
-<table align="center">
-<tr>
-<td valign="top">
+<div align="center">
 
-**Frontend**
-- React
-- Next.js
-- TypeScript
-- Tailwind CSS
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,python,firebase,mongodb,git,github,docker,vscode&theme=dark" />
 
-</td>
-<td valign="top">
+</div>
 
-**Backend**
-- Node.js
-- Python
-- Firebase / Firestore
-- MongoDB
+<hr>
 
-</td>
-<td valign="top">
+## GitHub Stats
 
-**Tools**
-- Git / GitHub
-- Docker
-- VS Code
+<div align="center">
 
-</td>
-</tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=YehenSilva&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YehenSilva&theme=radical&hide_border=true" height="165">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YehenSilva&layout=compact&theme=radical&hide_border=true" height="165">
+
+</div>
 
 <hr>
 
@@ -155,13 +143,6 @@ Mobile-first field service app with role-based access — admins manage clients 
 <hr>
 
 <div align="center">
-
-## Contact
-
-```
-Portfolio   https://yehensilva.vercel.app/
-GitHub      https://github.com/YehenSilva
-```
 
 <img src="https://komarev.com/ghpvc/?username=YehenSilva&color=red&style=flat-square">
 
