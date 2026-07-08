@@ -29,7 +29,7 @@
 
 ## About
 
-Full stack developer based in Sri Lanka, building production web applications and internal business systems. Work spans customer-facing platforms, real-time operational dashboards, and Python-based automation tools — with a growing focus on integrating AI into practical workflows.
+Full stack developer based in Sri Lanka, building production web applications and internal business systems. Work spans customer-facing platforms, real-time operational dashboards, and Python-based automation tools with a growing focus on integrating AI into practical workflows.
 
 Currently exploring: applied ML pipelines, AI-assisted tooling, and scalable system architecture.
 
