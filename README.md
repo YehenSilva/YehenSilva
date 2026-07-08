@@ -1,350 +1,82 @@
 <div align="center">
 
-<pre style="color:red;">
-▄██   ▄      ▄████████    ▄█    █▄       ▄████████ ███▄▄▄▄           ▄████████  ▄█   ▄█        ▄█    █▄     ▄████████ 
-███   ██▄   ███    ███   ███    ███     ███    ███ ███▀▀▀██▄        ███    ███ ███  ███       ███    ███   ███    ███ 
-███▄▄▄███   ███    █▀    ███    ███     ███    █▀  ███   ███        ███    █▀  ███▌ ███       ███    ███   ███    ███ 
-▀▀▀▀▀▀███  ▄███▄▄▄      ▄███▄▄▄▄███▄▄  ▄███▄▄▄     ███   ███        ███        ███▌ ███       ███    ███   ███    ███ 
-▄██   ███ ▀▀███▀▀▀     ▀▀███▀▀▀▀███▀  ▀▀███▀▀▀     ███   ███      ▀███████████ ███▌ ███       ███    ███ ▀███████████ 
-███   ███   ███    █▄    ███    ███     ███    █▄  ███   ███               ███ ███  ███       ███    ███   ███    ███ 
-███   ███   ███    ███   ███    ███     ███    ███ ███   ███         ▄█    ███ ███  ███▌    ▄ ███    ███   ███    ███ 
- ▀█████▀    ██████████   ███    █▀      ██████████  ▀█   █▀        ▄████████▀  █▀   █████▄▄██  ▀██████▀    ███    █▀  
-                                                                                    ▀
-</pre>
+```
+██╗   ██╗███████╗██╗  ██╗███████╗███╗   ██╗    ███████╗██╗██╗    ██╗   ██╗ █████╗ 
+╚██╗ ██╔╝██╔════╝██║  ██║██╔════╝████╗  ██║    ██╔════╝██║██║    ██║   ██║██╔══██╗
+ ╚████╔╝ █████╗  ███████║█████╗  ██╔██╗ ██║    ███████╗██║██║    ██║   ██║███████║
+  ╚██╔╝  ██╔══╝  ██╔══██║██╔══╝  ██║╚██╗██║    ╚════██║██║██║    ╚██╗ ██╔╝██╔══██║
+   ██║   ███████╗██║  ██║███████╗██║ ╚████║    ███████║██║███████╗╚████╔╝ ██║  ██║
+   ╚═╝   ╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝    ╚══════╝╚═╝╚══════╝ ╚═══╝  ╚═╝  ╚═╝
+```
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00ff00?style=for-the-badge">
-<img src="https://img.shields.io/badge/MODE-BUILDING-red?style=for-the-badge">
-<img src="https://img.shields.io/badge/ROLE-FULL_STACK_DEVELOPER-black?style=for-the-badge">
+**Full Stack Developer** — Web Applications · Business Automation · AI Systems
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://yehensilva.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YehenSilva)
 
 </div>
-
-<hr>
-
-<div align="center">
-
-## `./system.boot`
-
-</div>
-
-```bash
-[████████████████████] 100%
-
-SYSTEM STATUS : ONLINE
-USER          : YehenSilva
-ROLE          : Full Stack Developer
-LOCATION      : SriLanka
-
-CONNECTED MODULES:
-
-✓ Web Development
-✓ Business Automation
-✓ Database Systems
-✓ AI Exploration
-✓ Software Engineering
-```
-
-<hr>
-
-<div align="center">
-
-## `about_me.exe`
-
-</div>
-
-```yaml
-name: Yehen Silva
-role: Full Stack Developer
-
-focus:
-  - Modern Web Applications
-  - Business Management Systems
-  - Automation Tools
-  - Interactive User Experiences
-
-currently_building:
-  - Scalable Applications
-  - Developer Tools
-  - AI Powered Systems
-
-availability:
-  collaboration: true
-```
-
-<hr>
-
-<div align="center">
-
-## `tech_stack.dll`
-
-</div>
-
-<table align="center">
-<tr>
-<td>
-
-```text
-FRONTEND
-
-React        ██████████
-Next.js      █████████
-JavaScript   █████████
-TypeScript   ████████
-Tailwind     ████████
-```
-
-</td>
-
-<td>
-
-```text
-BACKEND
-
-Node.js      ████████
-Python       ████████
-Firebase     ████████
-MongoDB      ███████
-```
-
-</td>
-
-<td>
-
-```text
-TOOLS
-
-Git          █████████
-GitHub       █████████
-Docker       ███████
-VS Code      █████████
-```
-
-</td>
-</tr>
-</table>
-
-<hr>
-
-<div align="center">
-
-## `project_database.exe`
-
-</div>
-
-```bash
-$ load projects
-
-[06 PROJECTS FOUND]
-
-Initializing modules...
-```
-
-<table>
-<tr>
-<td width="50%">
-
-## 🎬 XYNEMA
-
-```text
-STATUS:
-LIVE
-
-TYPE:
-Streaming Platform
-
-FEATURES:
-
-✓ Movie browsing
-✓ Content integration
-✓ Responsive interface
-✓ Streaming experience
-
-STACK:
-
-React
-Node.js
-MongoDB
-
-LIVE:
-https://xynema-six.vercel.app/
-```
-
-</td>
-
-<td width="50%">
-
-## 💎 ENCROZA
-
-```text
-STATUS:
-LIVE
-
-TYPE:
-E-Commerce Platform
-
-FEATURES:
-
-✓ Product management
-✓ Firebase database
-✓ Admin panel
-✓ Inventory system
-
-STACK:
-
-Firebase
-Frontend
-UI/UX
-
-LIVE:
-https://encroza.web.app/
-```
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-## 🏊 WATERQO MANAGEMENT
-
-```text
-STATUS:
-PRIVATE SYSTEM
-
-TYPE:
-Business Software
-
-MODULES:
-
-✓ Client ledger
-✓ Service tracker
-✓ Price engine
-✓ Invoice system
-
-SYSTEM:
-Internal Operations Platform
-```
-
-</td>
-
-<td width="50%">
-
-## 🌊 WATERQO WEBSITE
-
-```text
-STATUS:
-DEPLOYED
-
-TYPE:
-Corporate Website
-
-FEATURES:
-
-✓ Project showcase
-✓ Services
-✓ Products
-✓ Dedicated pages
-
-LIVE:
-https://waterqoswimmingpools.com/
-```
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-## 📄 QUOTATION ENGINE
-
-```text
-STATUS:
-ACTIVE TOOL
-
-TYPE:
-Automation System
-
-PROCESS:
-
-INPUT
- |
- v
-CALCULATIONS
- |
- v
-WORD GENERATOR
- |
- v
-QUOTATION
-
-
-STACK:
-
-Python
-Automation
-Documents
-```
-
-</td>
-
-<td width="50%">
-
-## 📱 SERVICE TRACKER
-
-```text
-STATUS:
-OPERATIONAL
-
-TYPE:
-Mobile Business App
-
-FEATURES:
-
-ADMIN:
-✓ Clients
-✓ Staff
-✓ Payments
-
-STAFF:
-✓ Services
-✓ Requests
-✓ Updates
-
-STACK:
-
-Firebase
-Auth
-Mobile Web
-```
-
-</td>
-</tr>
-</table>
-
-
-
-<div align="center">
-
-## `contact.sh`
-
-```bash
-$ connect YehenSilva
-
-PORTFOLIO:
-https://yehensilva.vercel.app/
-
-GITHUB:
-https://github.com/YehenSilva
-```
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YehenSilva&color=red&style=for-the-badge">
+## About
+
+Full stack developer based in Sri Lanka, building production web applications and internal business systems. Work spans customer-facing platforms, real-time operational dashboards, and Python-based automation tools — with a growing focus on integrating AI into practical, everyday workflows.
+
+Currently exploring: applied ML pipelines, AI-assisted tooling, and scalable system architecture.
 
 <br>
 
-```text
-SYSTEM ONLINE
-YEHEN SILVA 
+## Stack
+
+| Frontend | Backend | Tools & Platforms |
+|---|---|---|
+| React | Node.js | Git / GitHub |
+| Next.js | Python | Firebase |
+| TypeScript | Firestore | Docker |
+| Tailwind CSS | MongoDB | VS Code |
+
+<br>
+
+## Projects
+
+### Xynema — Streaming Platform
+Movie discovery and streaming interface with content integration and a responsive UI.
+`React` `Node.js` `MongoDB`
+🔗 [xynema-six.vercel.app](https://xynema-six.vercel.app/)
+
+### Encroza — E-Commerce Platform
+Full e-commerce system with an admin panel, live inventory tracking, and a Firebase backend.
+`Firebase` `React` `UI/UX`
+🔗 [encroza.web.app](https://encroza.web.app/)
+
+### Waterqo Website — Corporate Site
+Corporate site for a pool construction company, covering services, products, and project showcases.
+`React` `Deployment`
+🔗 [waterqoswimmingpools.com](https://waterqoswimmingpools.com/)
+
+### Waterqo Management Suite — Internal Business Platform
+Private operations system covering client ledgers, service scheduling, payment tracking, and pricing logic — used to run day-to-day business operations.
+`Firebase` `Firestore` `Real-time Sync`
+
+### Quotation & Agreement Engine — Document Automation
+Desktop application that generates structured business documents (quotations, agreements) from templated inputs, with history tracking and organized file output.
+`Python` `CustomTkinter` `docxtpl`
+
+### Service Tracker — Mobile Business App
+Mobile-first field service app with role-based access — admins manage clients, staff, and payments; staff log service visits and updates in real time.
+`Firebase` `Auth` `Mobile Web`
+
+<br>
+
+## Contact
+
 ```
+Portfolio   https://yehensilva.vercel.app/
+GitHub      https://github.com/YehenSilva
+```
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YehenSilva&color=blue&style=flat-square">
 
 </div>
