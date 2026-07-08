@@ -14,6 +14,11 @@
 
 **Full Stack Developer** — Web Applications · Business Automation · AI Systems
 
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff00?style=flat-square">
+<img src="https://img.shields.io/badge/ROLE-FULL_STACK_DEVELOPER-black?style=flat-square">
+<img src="https://img.shields.io/badge/LOCATION-SRI_LANKA-red?style=flat-square">
+<img src="https://img.shields.io/badge/FOCUS-WEB_%7C_AUTOMATION_%7C_AI-blue?style=flat-square">
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://yehensilva.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YehenSilva)
 
