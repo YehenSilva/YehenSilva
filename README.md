@@ -12,8 +12,9 @@
                                                                                     ▀
 </pre>
 
+### Full Stack Developer
 
-*Building web applications, business automation systems, and AI-powered tools |  end to end, from database to interface.*
+*Building web applications, business automation systems, and AI-powered tools — end to end, from database to interface.*
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff00?style=flat-square">
 <img src="https://img.shields.io/badge/ROLE-FULL_STACK_DEVELOPER-6a0dad?style=flat-square">
@@ -22,6 +23,8 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://yehensilva.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YehenSilva)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-here)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
 
@@ -29,7 +32,7 @@
 
 ## About
 
-Full stack developer based in Sri Lanka, building production web applications and internal business systems. Work spans customer-facing platforms, real-time operational dashboards, and Python-based automation tools with a growing focus on integrating AI into practical workflows.
+Full stack developer based in Sri Lanka, building production web applications and internal business systems. Work spans customer-facing platforms, real-time operational dashboards, and Python-based automation tools — with a growing focus on integrating AI into practical workflows.
 
 Currently exploring: applied ML pipelines, AI-assisted tooling, and scalable system architecture.
 
