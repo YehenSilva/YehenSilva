@@ -12,12 +12,11 @@
                                                                                     ▀
 </pre>
 
-### Full Stack Developer
 
 *Building web applications, business automation systems, and AI-powered tools — end to end, from database to interface.*
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff00?style=flat-square">
-<img src="https://img.shields.io/badge/ROLE-FULL_STACK_DEVELOPER-black?style=flat-square">
+<img src="https://img.shields.io/badge/ROLE-FULL_STACK_DEVELOPER-6a0dad?style=flat-square">
 <img src="https://img.shields.io/badge/LOCATION-SRI_LANKA-red?style=flat-square">
 <img src="https://img.shields.io/badge/FOCUS-WEB_%7C_AUTOMATION_%7C_AI-blue?style=flat-square">
 
