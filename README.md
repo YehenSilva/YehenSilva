@@ -34,7 +34,10 @@
 
 Full stack developer based in Sri Lanka, building production web applications and internal business systems. Work spans customer-facing platforms, real-time operational dashboards, and Python-based automation tools with a growing focus on integrating AI into practical workflows.
 
-Currently exploring: applied ML pipelines, AI-assisted tooling, and scalable system architecture.
+- 🔭 Currently building internal business tools and real-time dashboards
+- 🌱 Exploring applied ML pipelines and AI-assisted developer tooling
+- 🛠 Comfortable across the stack — from Firestore data models to React interfaces
+- 📫 Reach me at **yehensilva@gmail.com**
 
 <hr>
 
@@ -46,11 +49,23 @@ Currently exploring: applied ML pipelines, AI-assisted tooling, and scalable sys
 
 </div>
 
+<table>
+<tr>
+<td valign="top" width="25%"><strong>Frontend</strong><br>React · Next.js · TypeScript · Tailwind CSS</td>
+<td valign="top" width="25%"><strong>Backend</strong><br>Node.js · Python · REST APIs</td>
+<td valign="top" width="25%"><strong>Data & Infra</strong><br>Firebase · Firestore · MongoDB · Docker</td>
+<td valign="top" width="25%"><strong>Tooling</strong><br>Git · GitHub Actions · VS Code</td>
+</tr>
+</table>
+
 <hr>
 
 ## GitHub Stats
 
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YehenSilva&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YehenSilva&layout=compact&theme=radical&hide_border=true" height="165">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YehenSilva&theme=radical&hide_border=true" height="165">
 
@@ -139,7 +154,16 @@ Mobile-first field service app with role-based access — admins manage clients 
 
 <hr>
 
+## Let's Connect
+
 <div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yehensilva.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YehenSilva)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yehensilva/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yehensilva@gmail.com)
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=YehenSilva&color=red&style=flat-square">
 
