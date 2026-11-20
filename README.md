@@ -42,7 +42,7 @@ Currently exploring: applied ML pipelines, AI-assisted tooling, and scalable sys
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,js,tailwind,python,firebase,github,docker,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,tailwind,python,firebase,github,docker,vscode&theme=dark" />
 
 </div>
 
